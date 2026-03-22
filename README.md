@@ -137,3 +137,12 @@ The four-dashboard design—Overview, State Analysis, Constituency Analysis, and
 Key success factors include strict data validation processes, neutral and objective framing, hierarchical dashboard navigation, and emphasis on comparative metrics that contextualize raw numbers. Moving forward, enhancements such as predictive analytics, sentiment analysis integration, and demographic cross-tabulation could further deepen electoral insights and support more sophisticated forecasting and strategic planning.
 
 The dashboard stands as a best-practice example of how thoughtful information design and modern analytics tools can demystify complex datasets and empower stakeholders to make data-informed decisions in high-stakes domains like electoral analysis and political strategy.
+
+---
+
+## Author
+
+Developed by Vinukonda Harsha Vardhan during the Infosys Internship program as a comprehensive Power BI analytics project. This dashboard demonstrates about DAX calculations, interactive visualization design, and data storytelling for complex electoral analysis and stakeholder reporting.
+
+
+
